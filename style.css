@@ -1,0 +1,44 @@
+.jumbotron{
+  background-image: url("https://www.conscious-cook.com/wp-content/uploads/2017/03/header-3.jpg");
+  position: cover;
+}
+
+h1{
+color: whitesmoke;
+font-family: 'Londrina Sketch', cursive;
+
+  }
+
+.display-3{
+    font-size: 100px;
+  }
+
+.lead{
+    color:whitesmoke;
+  }
+
+#go-to{
+  font-family: 'Londrina Sketch', cursive;
+  font-size: 30px;
+}
+
+h5{
+  font-family: 'Londrina Sketch', cursive;
+  font-size: 30px;
+
+}
+  
+.list{
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+img {
+  opacity: 0.8;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
